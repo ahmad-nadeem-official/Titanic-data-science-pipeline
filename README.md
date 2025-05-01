@@ -7,7 +7,7 @@ Titanic Data Science Pipeline – Automated, Reusable, Production-Ready
 🧠 Project Motivation & Vision
 ------------------------------
 
-This project was developed by me under the sharp-eyed supervision of ChatGPT — who, acting like a boss, assigned me this task after I asked for a way to work more professionally with the Titanic dataset. At the time of building this, I wasn’t working in a professional setting, but I wanted to break out of the typical beginner loop. ChatGPT challenged me to create a **reusable, automated EDA pipeline** that could be applied to any structured dataset — and this project is the outcome: Version 1 of a clean, scalable, and modular data science workflow. This is just the beginning — in future updates, I plan to make the pipeline more powerful, package it for PyPI, and build a full data visualization interface using React.js or Streamlit. So stay tuned — more is coming!
+This project was developed by me under the sharp-eyed supervision of ChatGPT — who, acting like a boss, assigned me this task after I asked for a way to work more professionally with the Titanic dataset. At the time of building this, I wasn’t working in a professional setting, but I wanted to break out of the typical beginner loop. ChatGPT challenged me to create a **reusable, automated EDA pipeline** that could be applied to any structured dataset — and this project is the outcome: Version 1 of a clean, scalable, and modular data science workflow. This is just the beginning — in future updates, I plan to make the pipeline more powerful, package it for PyPI, and build a full data visualization interface using React.js or Streamlit. So stay connected — more is coming!
 
 📌 Overview
 -----------
