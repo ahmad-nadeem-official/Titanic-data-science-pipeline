@@ -1,5 +1,4 @@
-[![joblib](https://img.shields.io/badge/joblib-0.13.2-42A5F5?logo=joblib&logoColor=white)](https://colab.research.google.com/drive/1KZCEK9QvUOiA0k7trgc_SGiS8KX-k5Vs#scrollTo=NtHnOfp2Bbr6)
-
+[![Google-colab](https://img.shields.io/badge/-0.13.2-e09419?logo=Google-colab&logoColor=white)](https://colab.research.google.com/drive/1KZCEK9QvUOiA0k7trgc_SGiS8KX-k5Vs#scrollTo=NtHnOfp2Bbr6)
 
 Titanic Data Science Pipeline – Automated, Reusable, Production-Ready
 =====================================================================
